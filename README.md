@@ -1,2 +1,5 @@
 # hello-world
-Blah di blah blarg blah.
+
+Hello Finder of This File!
+
+I have no idea what I'm doing.
